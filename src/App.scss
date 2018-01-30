@@ -1,0 +1,22 @@
+.textarea{
+  width: 100%;
+ border-color: #000;
+  resize: none;
+}
+.md-in, .display-md{
+  width: 100%;
+  min-height: 30em;
+  border-radius: .25rem; 
+  border:1px solid black;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  box-sizing:border-box;
+  padding: 1.25rem;
+}
+.md-in {
+  background-color: #957bbe;
+}
+.display-md {
+  background-color: #80bdff; 
+  border-color: #000;
+}
