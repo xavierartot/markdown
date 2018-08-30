@@ -1,4 +1,7 @@
 ### Markdown Previewer
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xavierartot/markdown.svg)](https://greenkeeper.io/)
+
 __FreeCodeCamp Project:__
 https://www.freecodecamp.org/challenges/build-a-markdown-previewer
 
